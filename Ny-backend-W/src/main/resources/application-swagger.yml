@@ -1,0 +1,14 @@
+# Needed for swagger to run, but breaks Error responses on non existing endpoints.
+# Use this profile only when testing with swagger.
+spring:
+  resources:
+    add-mappings: true
+
+# A bug in swagger-core throws a warning, ignoring that by only accepting Error from that specific logger.
+logging:
+  level:
+    io:
+      swagger:
+        models:
+          parameters:
+            AbstractSerializableParameter: Error

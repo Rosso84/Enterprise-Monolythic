@@ -1,0 +1,31 @@
+package application.enums
+
+enum class BodyPart {
+    UPPER_HEAD,
+    LOWER_HEAD,
+    ABDOMEN,
+    CROTCH,
+    UPPER_SPINE,
+    MIDDLE_SPINE,
+    LOWER_SPINE,
+    FIBRO_LOWER_NECK,
+    FIBRO_UPPER_PECKS,
+    SHOULDER,
+    BICEPS,
+    ELBOW,
+    FOREARM,
+    HIP,
+    HAND,
+    UPPER_LEG,
+    KNEE,
+    SHIN,
+    ANKLE,
+    FOOT,
+    LOWER_NECK,
+    TRAPEZIUS,
+    SHOULDER_BLADE,
+    TRICEPS,
+    SUPRASPINATUS,
+    GLUTEAL,
+    GREAT_TROCHANTER
+}

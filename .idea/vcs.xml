@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/OldApps/Android-programming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OldApps/Exam_Advanced_Java/Advanced_java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OldApps/JDBC_FunctionalProgramming_ORM/Advanced_java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OldApps/avansertJava++" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OldApps/avansertJava++/Advanced_java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OldApps/bookSale" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OldApps/groupEnterprise/exam_Enterprise2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OldApps/hotelapp/exam_Enterprise2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jsPages/ArcuriGit/web_development_and_api_design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jsPages/Innlevering/Pg6300/ReactInnlevering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jsPages/gitReact/React.JS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jsPages/jsKoans/JavaScript-Koans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testing_security_development_enterprise_systems" vcs="Git" />
+  </component>
+</project>
