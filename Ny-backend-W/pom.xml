@@ -36,7 +36,7 @@
         <!--<version.flyway>5.2.4</version.flyway>-->
 
         <!-- Misc -->
-        <version.jackson>2.9.7</version.jackson>
+        <version.jackson>2.12.1</version.jackson>
         <version.passay>1.4.0</version.passay>
         <version.javax-validation>2.0.0.Final</version.javax-validation>
         <version.bouncy-castle>1.61</version.bouncy-castle>
