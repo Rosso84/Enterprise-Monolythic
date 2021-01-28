@@ -1,6 +1,6 @@
 ### About
 
-In a group of two we rewrote an existing backend system from javascript to a springboot application for a company who owns a mobileapplication within e-health. Their goal was to get their aplication improved within the norm of e-health that were made included:
+In a group of two we rewrote an existing backend system from javascript to a springboot application for a company who owns a mobileapplication within e-health. Their goal was to get their aplication improved within the norm of e-health. What we managed to improve in order to make it more robust and secure included:
 
 -When a user deleted their acccount it only deleted the sensitive data. The rest was kept for analysis purposes as this was one of the main wishes for improvements by product owner
 
